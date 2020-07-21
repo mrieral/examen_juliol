@@ -1,0 +1,25 @@
+package examen_julio;
+
+
+
+public class NombreAlumno {
+
+
+
+	private String nombre="Miquel Angel Riera";
+
+	
+
+	public NombreAlumno() {	
+
+	}
+
+	
+
+	public String getNombre() {
+
+		return nombre;
+
+	}
+
+}
